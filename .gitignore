@@ -1,0 +1,5 @@
+.idea
+vendor
+bower_components
+*.zip
+*.xml
