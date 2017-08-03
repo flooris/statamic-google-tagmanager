@@ -1,0 +1,5 @@
+fields:
+  tagmanager_id:
+    type: text
+    validate: required
+    width: 100
